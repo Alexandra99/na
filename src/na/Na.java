@@ -20,6 +20,8 @@ public class Na {
         System.out.println("hii");
         kl obj=new kl();
         obj.pppp();
+        ok ob=new ok();
+        ob.la();
     }
     
 }
