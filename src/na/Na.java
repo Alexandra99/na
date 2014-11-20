@@ -18,6 +18,8 @@ public class Na {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hii");
+        kl obj=new kl();
+        obj.pppp();
     }
     
 }
